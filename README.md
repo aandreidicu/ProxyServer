@@ -1,5 +1,5 @@
 # **MULTITHREADED PROXY-SERVER**
-## _Proiect PSO : HTTP PROXY SERVER_
+## _Proiect PSO : HTTP PROXY SERVER  - DICU Andrei-Stefan, ENACHE Stefan-Ionut_
  Proiectul implica dezvoltarea unui program de tip Proxy-Server, care sa functioneze ca un intermediar intre un client(browser web) si serverele pe care le acceseaza.
  Proxy-ul este conceput sa proceseze request-uri de tip:
  * POST
